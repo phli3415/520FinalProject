@@ -1,0 +1,14 @@
+# data (download / cache; never commit)
+data/
+*.sqlite
+*.db
+# env
+.venv/
+__pycache__/
+.DS_Store
+# personal notes / course files (not part of the project code)
+.claude/
+STATE.md
+LEARN.md
+spec/
+*.pdf
